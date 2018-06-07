@@ -1,3 +1,3 @@
 # practice
 
-## 小林の練習用の編集です
+## this is a practice branch for Koayashi-san.
